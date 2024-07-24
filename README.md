@@ -14,7 +14,7 @@ Follow the instructions below to set up and run the project on your local machin
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/b0ney-1/CharacterGenV3_Offline.git
+   git clone https://github.com/0xmetaschool/10k-nft-image-generator.git
    ```
 
 2. **Navigate into the project's directory**:
