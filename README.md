@@ -20,7 +20,7 @@ Follow the instructions below to set up and run the project on your local machin
 2. **Navigate into the project's directory**:
 
    ```sh
-   cd CharacterGenV3_Offline
+   cd 10k-nft-image-generator
    ```
 
 3. **Install all dependencies**:
