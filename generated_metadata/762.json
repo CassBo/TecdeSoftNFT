@@ -1,0 +1,94 @@
+{
+  "name": "Jai-Blynn Boadle #762",
+  "description": "Jai-Blynn Boadle is a Wood Elf Ranger, who has no sibling(s), and was born on a Ship and rasied by an Adoptive Family. Jai-Blynn Boadle lives in the lower Isle of Zarkus, where he lives out his days as a Folk Hero. Jai-Blynn Boadle spent most of his teenage years flirting and wooing many people. Locals would pay him to teach them how to do the same.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/762.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Wood Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "161cm (5'3\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Folk Hero"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Tan Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Green Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Chin Stubble"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "HP",
+      "value": 16
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 11
+    },
+    {
+      "trait_type": "DEX",
+      "value": 16
+    },
+    {
+      "trait_type": "CON",
+      "value": 9
+    },
+    {
+      "trait_type": "INT",
+      "value": 8
+    },
+    {
+      "trait_type": "WIS",
+      "value": 12
+    },
+    {
+      "trait_type": "CHA",
+      "value": 15
+    },
+    {
+      "trait_type": "Coins",
+      "value": 826
+    }
+  ]
+}

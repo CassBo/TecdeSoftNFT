@@ -1,0 +1,94 @@
+{
+  "name": "Dracyian Bourland #676",
+  "description": "Dracyian Bourland is a Halfling Barbarian, who has 10 sibling(s), and was born in a laboratory and rasied by an Adoptive Family. Dracyian Bourland lives in the lower Isle of Zarkus, where he lives out his days as a Peasant. Dracyian Bourland learned the dark arts of thievery when he was young, as it allowed him to earn money from pickpocketing the other locals.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/676.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Halfling"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Barbarian"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "112cm (3'8\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Tied Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Ragged Drape"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Padded Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Trimmed Beard"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Blood"
+    },
+    {
+      "trait_type": "HP",
+      "value": 16
+    },
+    {
+      "trait_type": "AC",
+      "value": 11
+    },
+    {
+      "trait_type": "STR",
+      "value": 12
+    },
+    {
+      "trait_type": "DEX",
+      "value": 17
+    },
+    {
+      "trait_type": "CON",
+      "value": 11
+    },
+    {
+      "trait_type": "INT",
+      "value": 11
+    },
+    {
+      "trait_type": "WIS",
+      "value": 8
+    },
+    {
+      "trait_type": "CHA",
+      "value": 12
+    },
+    {
+      "trait_type": "Coins",
+      "value": 973
+    }
+  ]
+}

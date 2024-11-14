@@ -1,0 +1,94 @@
+{
+  "name": "Bulruk Erickson #784",
+  "description": "Bulruk Erickson is a Human Barbarian, who has 2 sibling(s), and was born in the Home of a healer and rasied by their Grandparents. Bulruk Erickson lives in the upper Isle of Zenaria, where he lives out his days as a Commoner. Everyone knew who he was, and he had friends everywhere he went.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/784.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Barbarian"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "164cm (5'5\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Commoner"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Comb Over"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Bronze Armor"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Yellow Lined Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Long Goatee"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "HP",
+      "value": 17
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 15
+    },
+    {
+      "trait_type": "DEX",
+      "value": 14
+    },
+    {
+      "trait_type": "CON",
+      "value": 11
+    },
+    {
+      "trait_type": "INT",
+      "value": 15
+    },
+    {
+      "trait_type": "WIS",
+      "value": 10
+    },
+    {
+      "trait_type": "CHA",
+      "value": 13
+    },
+    {
+      "trait_type": "Coins",
+      "value": 312
+    }
+  ]
+}

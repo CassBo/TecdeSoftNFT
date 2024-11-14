@@ -1,0 +1,94 @@
+{
+  "name": "Angun Whalen #26",
+  "description": "Angun Whalen is a Dark Elf Knight, who has no sibling(s), and was born in a Field and rasied by a Temple. Angun Whalen lives in the upper Isle of Zenethia, where he lives out his days as a Folk Hero. Others saw him as being different or strange, and so he had few companions.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/26.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dark Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "162cm (5'4\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Folk Hero"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Tied Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Linen Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Long Goatee"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Curse"
+    },
+    {
+      "trait_type": "HP",
+      "value": 11
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 12
+    },
+    {
+      "trait_type": "DEX",
+      "value": 12
+    },
+    {
+      "trait_type": "CON",
+      "value": 8
+    },
+    {
+      "trait_type": "INT",
+      "value": 9
+    },
+    {
+      "trait_type": "WIS",
+      "value": 11
+    },
+    {
+      "trait_type": "CHA",
+      "value": 8
+    },
+    {
+      "trait_type": "Coins",
+      "value": 347
+    }
+  ]
+}

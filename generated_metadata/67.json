@@ -1,0 +1,94 @@
+{
+  "name": "Caelia Yanetta #67",
+  "description": "Caelia Yanetta is a Wood Elf Knight, who has 10 sibling(s), and was born in a Tavern and rasied by their Grandparents. Caelia Yanetta lives in the upper Isle of Zenaria, where she lives out her days as a Peasant. Caelia Yanetta spent most of her teenage years flirting and wooing many people. Locals would pay her to teach them how to do the same.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/67.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Wood Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "176cm (5'9\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Mage Robes"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Tan Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Blood"
+    },
+    {
+      "trait_type": "HP",
+      "value": 30
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 11
+    },
+    {
+      "trait_type": "DEX",
+      "value": 14
+    },
+    {
+      "trait_type": "CON",
+      "value": 20
+    },
+    {
+      "trait_type": "INT",
+      "value": 11
+    },
+    {
+      "trait_type": "WIS",
+      "value": 10
+    },
+    {
+      "trait_type": "CHA",
+      "value": 18
+    },
+    {
+      "trait_type": "Coins",
+      "value": 772
+    }
+  ]
+}

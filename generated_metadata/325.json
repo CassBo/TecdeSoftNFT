@@ -1,0 +1,94 @@
+{
+  "name": "Zaria October #325",
+  "description": "Zaria October is a Dark Elf Ranger, who has no sibling(s), and was born in a Tower and rasied by a Single Father. Zaria October lives in the upper Isle of Zenaria, where she lives out her days as a Peasant. Zaria October was exiled from others as a child for being strange. Other kids found her scary.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/325.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dark Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "177cm (5'10\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Tied Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Crystal Trimmed Armor"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Tan Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "None"
+    },
+    {
+      "trait_type": "HP",
+      "value": 24
+    },
+    {
+      "trait_type": "AC",
+      "value": 14
+    },
+    {
+      "trait_type": "STR",
+      "value": 19
+    },
+    {
+      "trait_type": "DEX",
+      "value": 11
+    },
+    {
+      "trait_type": "CON",
+      "value": 17
+    },
+    {
+      "trait_type": "INT",
+      "value": 14
+    },
+    {
+      "trait_type": "WIS",
+      "value": 13
+    },
+    {
+      "trait_type": "CHA",
+      "value": 13
+    },
+    {
+      "trait_type": "Coins",
+      "value": 396
+    }
+  ]
+}

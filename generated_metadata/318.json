@@ -1,0 +1,94 @@
+{
+  "name": "Barry Marsh #318",
+  "description": "Barry Marsh is a Dark Elf Wizard, who has 2 sibling(s), and was born in a guild and rasied by an Adoptive Family. Barry Marsh lives in the upper Isle of Zenaria, where he lives out his days as a Folk Hero. Barry Marsh holds the record for most lobsters caught in 24 hours using a single net. The record being 200 lobsters caught in 24 hours.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/318.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dark Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "182cm (5'12\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Folk Hero"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Ponytail"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Tan Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Blue Lined Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Chin Stubble"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "None"
+    },
+    {
+      "trait_type": "HP",
+      "value": 18
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 7
+    },
+    {
+      "trait_type": "DEX",
+      "value": 15
+    },
+    {
+      "trait_type": "CON",
+      "value": 12
+    },
+    {
+      "trait_type": "INT",
+      "value": 8
+    },
+    {
+      "trait_type": "WIS",
+      "value": 18
+    },
+    {
+      "trait_type": "CHA",
+      "value": 13
+    },
+    {
+      "trait_type": "Coins",
+      "value": 938
+    }
+  ]
+}

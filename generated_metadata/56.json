@@ -1,0 +1,94 @@
+{
+  "name": "Vyn Anders #56",
+  "description": "Vyn Anders is a High Elf Cleric, who has 4 sibling(s), and was born in a Temple and rasied by their extended Family. Vyn Anders lives in the upper Isle of Zenethia, where he lives out his days as a Folk Hero. Everyone knew who he was, and he had friends everywhere he went.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/56.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "High Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "169cm (5'7\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Folk Hero"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Tied Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Mage Robes"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Leather Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Chin Stubble"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "None"
+    },
+    {
+      "trait_type": "HP",
+      "value": 11
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 7
+    },
+    {
+      "trait_type": "DEX",
+      "value": 9
+    },
+    {
+      "trait_type": "CON",
+      "value": 8
+    },
+    {
+      "trait_type": "INT",
+      "value": 11
+    },
+    {
+      "trait_type": "WIS",
+      "value": 13
+    },
+    {
+      "trait_type": "CHA",
+      "value": 9
+    },
+    {
+      "trait_type": "Coins",
+      "value": 535
+    }
+  ]
+}

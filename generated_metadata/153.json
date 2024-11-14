@@ -1,0 +1,94 @@
+{
+  "name": "Orion Xenides #153",
+  "description": "Orion Xenides is a Dark Elf Ranger, who has 10 sibling(s), and was born in the streets and rasied by an Adoptive Family. Orion Xenides lives in the upper Isle of Zenethia, where he lives out his days as a Peasant. Orion Xenides spent most of his childhood alone, with no close friends.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/153.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dark Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "175cm (5'9\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Straight"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Workers Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Blue Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Chin Stubble"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "HP",
+      "value": 22
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 7
+    },
+    {
+      "trait_type": "DEX",
+      "value": 12
+    },
+    {
+      "trait_type": "CON",
+      "value": 16
+    },
+    {
+      "trait_type": "INT",
+      "value": 13
+    },
+    {
+      "trait_type": "WIS",
+      "value": 13
+    },
+    {
+      "trait_type": "CHA",
+      "value": 12
+    },
+    {
+      "trait_type": "Coins",
+      "value": 302
+    }
+  ]
+}

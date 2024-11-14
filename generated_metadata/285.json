@@ -1,0 +1,94 @@
+{
+  "name": "Vyn Quellings #285",
+  "description": "Vyn Quellings is a Wood Elf Ranger, who has 2 sibling(s), and was born in a Field and rasied by a Temple. Vyn Quellings lives in the upper Isle of Zenethia, where he lives out his days as a Peasant. Vyn Quellings had a few close friends and lived an ordinary childhood.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/285.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Wood Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "158cm (5'2\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Tied Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Workers Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Tan Shorts"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Trimmed Beard"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "HP",
+      "value": 17
+    },
+    {
+      "trait_type": "AC",
+      "value": 15
+    },
+    {
+      "trait_type": "STR",
+      "value": 17
+    },
+    {
+      "trait_type": "DEX",
+      "value": 15
+    },
+    {
+      "trait_type": "CON",
+      "value": 13
+    },
+    {
+      "trait_type": "INT",
+      "value": 11
+    },
+    {
+      "trait_type": "WIS",
+      "value": 15
+    },
+    {
+      "trait_type": "CHA",
+      "value": 12
+    },
+    {
+      "trait_type": "Coins",
+      "value": 570
+    }
+  ]
+}

@@ -8,7 +8,7 @@ require("dotenv").config(); // Make sure to load .env file
 const PORT = 3030;
 const IMAGE_DIR = "./generated_images";
 const METADATA_DIR = "./generated_metadata"; // New directory for metadata files
-const NUMBER_OF_CARDS = 10000;
+const NUMBER_OF_CARDS = 1000;
 const SERVER_START_COMMAND = "node server.js";
 
 function killProcessOnPort(port) {

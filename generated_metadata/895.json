@@ -1,0 +1,94 @@
+{
+  "name": "Darvyn Halliwell #895",
+  "description": "Darvyn Halliwell is a Human Knight, who has 3 sibling(s), and was born Among people of a different race and rasied by an Orphanage. Darvyn Halliwell lives in the upper Isle of Zenaria, where he lives out his days as a Peasant. Darvyn Halliwell would spend week nights playing his lute at the local tavern in return for food and a room to stay in.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/895.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "174cm (5'9\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "No Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Tied Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Mage Tunic"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Leather Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "HP",
+      "value": 20
+    },
+    {
+      "trait_type": "AC",
+      "value": 14
+    },
+    {
+      "trait_type": "STR",
+      "value": 14
+    },
+    {
+      "trait_type": "DEX",
+      "value": 12
+    },
+    {
+      "trait_type": "CON",
+      "value": 13
+    },
+    {
+      "trait_type": "INT",
+      "value": 12
+    },
+    {
+      "trait_type": "WIS",
+      "value": 11
+    },
+    {
+      "trait_type": "CHA",
+      "value": 14
+    },
+    {
+      "trait_type": "Coins",
+      "value": 686
+    }
+  ]
+}

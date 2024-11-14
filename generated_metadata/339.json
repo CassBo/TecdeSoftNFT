@@ -1,0 +1,94 @@
+{
+  "name": "Yvanna Everson #339",
+  "description": "Yvanna Everson is a Dark Elf Barbarian, who has no sibling(s), and was born in a Palace and rasied by a Gaurdian. Yvanna Everson lives in the lower Isle of Zarkus, where she lives out her days as Royalty. Yvanna Everson was taught smithing at a young age as she often worked and helped out at her local smithery.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/339.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dark Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Barbarian"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "162cm (5'4\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Royalty"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Workers Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "White Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "HP",
+      "value": 17
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 17
+    },
+    {
+      "trait_type": "DEX",
+      "value": 10
+    },
+    {
+      "trait_type": "CON",
+      "value": 14
+    },
+    {
+      "trait_type": "INT",
+      "value": 15
+    },
+    {
+      "trait_type": "WIS",
+      "value": 13
+    },
+    {
+      "trait_type": "CHA",
+      "value": 14
+    },
+    {
+      "trait_type": "Coins",
+      "value": 87
+    }
+  ]
+}

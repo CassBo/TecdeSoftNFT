@@ -1,0 +1,94 @@
+{
+  "name": "Sabrina Wight #336",
+  "description": "Sabrina Wight is a Halfling Knight, who has 5 sibling(s), and was born on a Battlefield and rasied by an Orphanage. Sabrina Wight lives in the upper Isle of Zenaria, where she lives out her days as a Folk Hero. Sabrina Wight spent most of her childhood alone, with no close friends.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/336.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Halfling"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "110cm (3'7\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Folk Hero"
+    },
+    {
+      "trait_type": "Body",
+      "value": "No Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wizard Hat"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Green Cape"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Green Shorts"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "HP",
+      "value": 22
+    },
+    {
+      "trait_type": "AC",
+      "value": 15
+    },
+    {
+      "trait_type": "STR",
+      "value": 10
+    },
+    {
+      "trait_type": "DEX",
+      "value": 12
+    },
+    {
+      "trait_type": "CON",
+      "value": 12
+    },
+    {
+      "trait_type": "INT",
+      "value": 19
+    },
+    {
+      "trait_type": "WIS",
+      "value": 9
+    },
+    {
+      "trait_type": "CHA",
+      "value": 18
+    },
+    {
+      "trait_type": "Coins",
+      "value": 285
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Caelia Windward #7",
+  "description": "Caelia Windward is a Halfling Ranger, who has 2 sibling(s), and was born Among people of a different race and rasied by their Grandparents. Caelia Windward lives in the lower Isle of Zarkus, where she lives out her days as a Peasant. Caelia Windward spent most of her childhood alone, with no close friends.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/7.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Halfling"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "114cm (3'9\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "No Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Ponytail"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Workers Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Blue Lined Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "None"
+    },
+    {
+      "trait_type": "HP",
+      "value": 14
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 10
+    },
+    {
+      "trait_type": "DEX",
+      "value": 13
+    },
+    {
+      "trait_type": "CON",
+      "value": 12
+    },
+    {
+      "trait_type": "INT",
+      "value": 16
+    },
+    {
+      "trait_type": "WIS",
+      "value": 15
+    },
+    {
+      "trait_type": "CHA",
+      "value": 14
+    },
+    {
+      "trait_type": "Coins",
+      "value": 282
+    }
+  ]
+}

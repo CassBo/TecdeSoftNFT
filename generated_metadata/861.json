@@ -1,0 +1,94 @@
+{
+  "name": "Zakkas Bougaitelet #861",
+  "description": "Zakkas Bougaitelet is a Dark Elf Wizard, who has 4 sibling(s), and was born in a guild and rasied by a Mother and Father. Zakkas Bougaitelet lives in the upper Isle of Zenethia, where he lives out his days as a Peasant. Zakkas Bougaitelet spent most of his teenage years flirting and wooing many people. Locals would pay him to teach them how to do the same.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/861.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dark Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "159cm (5'3\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiked Bun"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Red Cape"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Tan Studded Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Curse"
+    },
+    {
+      "trait_type": "HP",
+      "value": 15
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 13
+    },
+    {
+      "trait_type": "DEX",
+      "value": 10
+    },
+    {
+      "trait_type": "CON",
+      "value": 10
+    },
+    {
+      "trait_type": "INT",
+      "value": 10
+    },
+    {
+      "trait_type": "WIS",
+      "value": 13
+    },
+    {
+      "trait_type": "CHA",
+      "value": 14
+    },
+    {
+      "trait_type": "Coins",
+      "value": 331
+    }
+  ]
+}

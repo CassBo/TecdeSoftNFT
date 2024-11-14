@@ -1,0 +1,94 @@
+{
+  "name": "Soril Wight #971",
+  "description": "Soril Wight is a Halfling Rogue, who has 3 sibling(s), and was born on a Ship and rasied by an instituition. Soril Wight lives in the upper Isle of Zenethia, where he lives out his days as a Peasant. Soril Wight always found it easy to make friends, and he loved being around people.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/971.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Halfling"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Rogue"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "117cm (3'10\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Troll Spike"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Crystal Trimmed Armor"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Workers Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Trimmed Beard"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Curse"
+    },
+    {
+      "trait_type": "HP",
+      "value": 12
+    },
+    {
+      "trait_type": "AC",
+      "value": 14
+    },
+    {
+      "trait_type": "STR",
+      "value": 9
+    },
+    {
+      "trait_type": "DEX",
+      "value": 15
+    },
+    {
+      "trait_type": "CON",
+      "value": 11
+    },
+    {
+      "trait_type": "INT",
+      "value": 6
+    },
+    {
+      "trait_type": "WIS",
+      "value": 10
+    },
+    {
+      "trait_type": "CHA",
+      "value": 11
+    },
+    {
+      "trait_type": "Coins",
+      "value": 39
+    }
+  ]
+}

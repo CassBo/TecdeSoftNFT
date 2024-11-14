@@ -1,0 +1,94 @@
+{
+  "name": "Zakkas Dumont #934",
+  "description": "Zakkas Dumont is a Wood Elf Rogue, who has 5 sibling(s), and was born in the streets and rasied by an Adoptive Family. Zakkas Dumont lives in the upper Isle of Zenaria, where he lives out his days as an Outlaw. Zakkas Dumont holds the record for most lobsters caught in 24 hours using a single net. The record being 200 lobsters caught in 24 hours.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/934.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Wood Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Rogue"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "160cm (5'3\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Outlaw"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Tied Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Workers Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Workers Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Blood"
+    },
+    {
+      "trait_type": "HP",
+      "value": 17
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 7
+    },
+    {
+      "trait_type": "DEX",
+      "value": 12
+    },
+    {
+      "trait_type": "CON",
+      "value": 11
+    },
+    {
+      "trait_type": "INT",
+      "value": 8
+    },
+    {
+      "trait_type": "WIS",
+      "value": 9
+    },
+    {
+      "trait_type": "CHA",
+      "value": 14
+    },
+    {
+      "trait_type": "Coins",
+      "value": 710
+    }
+  ]
+}

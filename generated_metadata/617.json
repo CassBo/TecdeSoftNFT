@@ -1,0 +1,94 @@
+{
+  "name": "Engar Mantooth #617",
+  "description": "Engar Mantooth is a Dwarf Wizard, who has 4 sibling(s), and was born in their family Home and rasied by a Single Mother. Engar Mantooth lives in the lower Isle of Zarkus, where he lives out his days as a Peasant. Engar Mantooth always found it easy to make friends, and he loved being around people.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/617.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dwarf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "111cm (3'8\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "No Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Tied Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Checked Green Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "HP",
+      "value": 22
+    },
+    {
+      "trait_type": "AC",
+      "value": 12
+    },
+    {
+      "trait_type": "STR",
+      "value": 15
+    },
+    {
+      "trait_type": "DEX",
+      "value": 12
+    },
+    {
+      "trait_type": "CON",
+      "value": 19
+    },
+    {
+      "trait_type": "INT",
+      "value": 11
+    },
+    {
+      "trait_type": "WIS",
+      "value": 15
+    },
+    {
+      "trait_type": "CHA",
+      "value": 12
+    },
+    {
+      "trait_type": "Coins",
+      "value": 396
+    }
+  ]
+}

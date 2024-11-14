@@ -1,0 +1,94 @@
+{
+  "name": "Bulruk Webb #382",
+  "description": "Bulruk Webb is a Wood Elf Ranger, who has 6 sibling(s), and was born in a Cave and rasied by their extended Family. Bulruk Webb lives in the upper Isle of Zenethia, where he lives out his days as a Peasant. Bulruk Webb always found it easy to make friends, and he loved being around people.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/382.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Wood Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "181cm (5'11\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Troll Spike"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Angel Armor"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Hunters Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "None"
+    },
+    {
+      "trait_type": "HP",
+      "value": 21
+    },
+    {
+      "trait_type": "AC",
+      "value": 14
+    },
+    {
+      "trait_type": "STR",
+      "value": 13
+    },
+    {
+      "trait_type": "DEX",
+      "value": 10
+    },
+    {
+      "trait_type": "CON",
+      "value": 17
+    },
+    {
+      "trait_type": "INT",
+      "value": 13
+    },
+    {
+      "trait_type": "WIS",
+      "value": 17
+    },
+    {
+      "trait_type": "CHA",
+      "value": 15
+    },
+    {
+      "trait_type": "Coins",
+      "value": 959
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Pindious Banu #35",
+  "description": "Pindious Banu is a Dwarf Knight, who has 1 sibling(s), and was born in a Prison and rasied by their extended Family. Pindious Banu lives in the upper Isle of Zenethia, where he lives out his days as a Peasant. Pindious Banu was proficient at card tricks and wished to learn real magic in order to improve his \"magic\" acts.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/35.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dwarf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "130cm (4'3\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "No Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Ragged Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Pink Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Chin Stubble"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "None"
+    },
+    {
+      "trait_type": "HP",
+      "value": 8
+    },
+    {
+      "trait_type": "AC",
+      "value": 11
+    },
+    {
+      "trait_type": "STR",
+      "value": 15
+    },
+    {
+      "trait_type": "DEX",
+      "value": 10
+    },
+    {
+      "trait_type": "CON",
+      "value": 7
+    },
+    {
+      "trait_type": "INT",
+      "value": 11
+    },
+    {
+      "trait_type": "WIS",
+      "value": 17
+    },
+    {
+      "trait_type": "CHA",
+      "value": 9
+    },
+    {
+      "trait_type": "Coins",
+      "value": 375
+    }
+  ]
+}

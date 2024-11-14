@@ -1,0 +1,94 @@
+{
+  "name": "Bob Eggleston #414",
+  "description": "Bob Eggleston is a Halfling Knight, who has 4 sibling(s), and was born in the Home of a Family Friend and rasied by a Temple. Bob Eggleston lives in the upper Isle of Zenaria, where he lives out his days as a Peasant. Bob Eggleston was proficient at card tricks and wished to learn real magic in order to improve his \"magic\" acts.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/414.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Halfling"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "128cm (4'2\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "No Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Mage Robes"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Red Checked Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Chin Stubble"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Blood"
+    },
+    {
+      "trait_type": "HP",
+      "value": 10
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 13
+    },
+    {
+      "trait_type": "DEX",
+      "value": 8
+    },
+    {
+      "trait_type": "CON",
+      "value": 5
+    },
+    {
+      "trait_type": "INT",
+      "value": 13
+    },
+    {
+      "trait_type": "WIS",
+      "value": 12
+    },
+    {
+      "trait_type": "CHA",
+      "value": 14
+    },
+    {
+      "trait_type": "Coins",
+      "value": 519
+    }
+  ]
+}

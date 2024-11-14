@@ -1,0 +1,94 @@
+{
+  "name": "Esmeralla McGillicutty #531",
+  "description": "Esmeralla McGillicutty is a Orc Ranger, who has 2 sibling(s), and was born in a Barn and rasied by a Gaurdian. Esmeralla McGillicutty lives in the lower Isle of Zarkus, where she lives out her days as a Peasant. Esmeralla McGillicutty had a few close friends and lived an ordinary childhood.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/531.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Orc"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "169cm (5'7\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "No Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Straight"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Mage Robes"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Leather Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "None"
+    },
+    {
+      "trait_type": "HP",
+      "value": 20
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 16
+    },
+    {
+      "trait_type": "DEX",
+      "value": 13
+    },
+    {
+      "trait_type": "CON",
+      "value": 12
+    },
+    {
+      "trait_type": "INT",
+      "value": 13
+    },
+    {
+      "trait_type": "WIS",
+      "value": 12
+    },
+    {
+      "trait_type": "CHA",
+      "value": 11
+    },
+    {
+      "trait_type": "Coins",
+      "value": 953
+    }
+  ]
+}

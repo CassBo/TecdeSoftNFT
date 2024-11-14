@@ -1,0 +1,94 @@
+{
+  "name": "Amara Blanks #582",
+  "description": "Amara Blanks is a Orc Rogue, who has no sibling(s), and was born Among people of a different race and rasied by an Adoptive Family. Amara Blanks lives in the lower Isle of Zarkus, where she lives out her days as a Peasant. Amara Blanks had several friends, and her childhood was generally a happy one.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/582.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Orc"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Rogue"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "177cm (5'10\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Tan Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Green Robe"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Blood"
+    },
+    {
+      "trait_type": "HP",
+      "value": 19
+    },
+    {
+      "trait_type": "AC",
+      "value": 15
+    },
+    {
+      "trait_type": "STR",
+      "value": 16
+    },
+    {
+      "trait_type": "DEX",
+      "value": 16
+    },
+    {
+      "trait_type": "CON",
+      "value": 12
+    },
+    {
+      "trait_type": "INT",
+      "value": 13
+    },
+    {
+      "trait_type": "WIS",
+      "value": 9
+    },
+    {
+      "trait_type": "CHA",
+      "value": 13
+    },
+    {
+      "trait_type": "Coins",
+      "value": 69
+    }
+  ]
+}

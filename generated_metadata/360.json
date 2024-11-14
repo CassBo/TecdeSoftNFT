@@ -1,0 +1,94 @@
+{
+  "name": "Bob Moses #360",
+  "description": "Bob Moses is a Halfling Cleric, who has 4 sibling(s), and was born in a Swamp and rasied by a Single Mother. Bob Moses lives in the upper Isle of Zenethia, where he lives out his days as a Folk Hero. Bob Moses learned the dark arts of thievery when he was young, as it allowed him to earn money from pickpocketing the other locals.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/360.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Halfling"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "112cm (3'8\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Folk Hero"
+    },
+    {
+      "trait_type": "Body",
+      "value": "No Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Tied Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Leather Armor"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Red Studded Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Trimmed Beard"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "None"
+    },
+    {
+      "trait_type": "HP",
+      "value": 14
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 19
+    },
+    {
+      "trait_type": "DEX",
+      "value": 16
+    },
+    {
+      "trait_type": "CON",
+      "value": 13
+    },
+    {
+      "trait_type": "INT",
+      "value": 11
+    },
+    {
+      "trait_type": "WIS",
+      "value": 10
+    },
+    {
+      "trait_type": "CHA",
+      "value": 15
+    },
+    {
+      "trait_type": "Coins",
+      "value": 86
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Angun Apak #512",
+  "description": "Angun Apak is a High Elf Knight, who has no sibling(s), and was born in a Sewer and rasied by a Single Father. Angun Apak lives in the lower Isle of Zarkus, where he lives out his days as an Outlaw. Angun Apak travelled in a caravan for a few months in his early teenage years. During this period he learned to play mutliple musical intruments.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/512.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "High Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "171cm (5'7\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Outlaw"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Top Knot"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Tan Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Chin Stubble"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "HP",
+      "value": 21
+    },
+    {
+      "trait_type": "AC",
+      "value": 12
+    },
+    {
+      "trait_type": "STR",
+      "value": 13
+    },
+    {
+      "trait_type": "DEX",
+      "value": 9
+    },
+    {
+      "trait_type": "CON",
+      "value": 12
+    },
+    {
+      "trait_type": "INT",
+      "value": 15
+    },
+    {
+      "trait_type": "WIS",
+      "value": 8
+    },
+    {
+      "trait_type": "CHA",
+      "value": 12
+    },
+    {
+      "trait_type": "Coins",
+      "value": 377
+    }
+  ]
+}

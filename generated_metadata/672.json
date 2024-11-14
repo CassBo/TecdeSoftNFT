@@ -1,0 +1,94 @@
+{
+  "name": "Draco Swiatek #672",
+  "description": "Draco Swiatek is a Dwarf Wizard, who has 7 sibling(s), and was born in a Keep and rasied by a Gaurdian. Draco Swiatek lives in the upper Isle of Zenaria, where he lives out his days as a Noble. Draco Swiatek had a few close friends and lived an ordinary childhood.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/672.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dwarf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "130cm (4'3\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Noble"
+    },
+    {
+      "trait_type": "Body",
+      "value": "No Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Troll Spike"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "White Cape"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Trimmed Beard"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "HP",
+      "value": 17
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 8
+    },
+    {
+      "trait_type": "DEX",
+      "value": 13
+    },
+    {
+      "trait_type": "CON",
+      "value": 12
+    },
+    {
+      "trait_type": "INT",
+      "value": 13
+    },
+    {
+      "trait_type": "WIS",
+      "value": 8
+    },
+    {
+      "trait_type": "CHA",
+      "value": 15
+    },
+    {
+      "trait_type": "Coins",
+      "value": 474
+    }
+  ]
+}

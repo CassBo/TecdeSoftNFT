@@ -1,0 +1,94 @@
+{
+  "name": "Nyssa Binding #440",
+  "description": "Nyssa Binding is a Dwarf Cleric, who has no sibling(s), and was born in a Tavern and rasied by their extended Family. Nyssa Binding lives in the upper Isle of Zenaria, where she lives out her days as a Commoner. Nyssa Binding would often fish as a child and became quite good at it. In fact she was crowned the champion in a fishing tournament at the age of 13.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/440.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dwarf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "128cm (4'2\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Commoner"
+    },
+    {
+      "trait_type": "Body",
+      "value": "No Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Tied Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Ragged Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Tan Studded Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "HP",
+      "value": 10
+    },
+    {
+      "trait_type": "AC",
+      "value": 11
+    },
+    {
+      "trait_type": "STR",
+      "value": 15
+    },
+    {
+      "trait_type": "DEX",
+      "value": 12
+    },
+    {
+      "trait_type": "CON",
+      "value": 7
+    },
+    {
+      "trait_type": "INT",
+      "value": 10
+    },
+    {
+      "trait_type": "WIS",
+      "value": 10
+    },
+    {
+      "trait_type": "CHA",
+      "value": 11
+    },
+    {
+      "trait_type": "Coins",
+      "value": 288
+    }
+  ]
+}

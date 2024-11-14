@@ -1,0 +1,94 @@
+{
+  "name": "Esmeralla Kobayashi #148",
+  "description": "Esmeralla Kobayashi is a Orc Knight, who has 2 sibling(s), and was born in a Forest and rasied by an Adoptive Family. Esmeralla Kobayashi lives in the lower Isle of Zarkus, where she lives out her days as a Peasant. Esmeralla Kobayashi travelled in a caravan for a few months in her early teenage years. During this period he learned to play mutliple musical intruments.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/148.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Orc"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "155cm (5'1\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Flick"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Workers Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Blue Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Curse"
+    },
+    {
+      "trait_type": "HP",
+      "value": 23
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 14
+    },
+    {
+      "trait_type": "DEX",
+      "value": 16
+    },
+    {
+      "trait_type": "CON",
+      "value": 13
+    },
+    {
+      "trait_type": "INT",
+      "value": 13
+    },
+    {
+      "trait_type": "WIS",
+      "value": 10
+    },
+    {
+      "trait_type": "CHA",
+      "value": 16
+    },
+    {
+      "trait_type": "Coins",
+      "value": 787
+    }
+  ]
+}

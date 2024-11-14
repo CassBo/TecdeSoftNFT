@@ -1,0 +1,94 @@
+{
+  "name": "Wade Benoit #484",
+  "description": "Wade Benoit is a Wood Elf Wizard, who has 5 sibling(s), and was born in a laboratory and rasied by a Mother and Father. Wade Benoit lives in the lower Isle of Zarkus, where he lives out his days as a Peasant. Wade Benoit grew up with the ambition of being a powerful wizard, hoping he could become more powerful than the rest of his peers.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/484.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Wood Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "169cm (5'7\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Workers Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Blue Checked Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Chin Stubble"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Blood"
+    },
+    {
+      "trait_type": "HP",
+      "value": 24
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 9
+    },
+    {
+      "trait_type": "DEX",
+      "value": 8
+    },
+    {
+      "trait_type": "CON",
+      "value": 18
+    },
+    {
+      "trait_type": "INT",
+      "value": 14
+    },
+    {
+      "trait_type": "WIS",
+      "value": 18
+    },
+    {
+      "trait_type": "CHA",
+      "value": 12
+    },
+    {
+      "trait_type": "Coins",
+      "value": 446
+    }
+  ]
+}

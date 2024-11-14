@@ -1,0 +1,94 @@
+{
+  "name": "Elsie Alinsky #317",
+  "description": "Elsie Alinsky is a Dwarf Ranger, who has 6 sibling(s), and was born in a Tavern and rasied by an Orphanage. Elsie Alinsky lives in the upper Isle of Zenethia, where she lives out her days as a Peasant. Everyone knew who she was, and she had friends everywhere she went.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/317.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dwarf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "115cm (3'9\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "No Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Tied Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Angel Armor"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Ragged Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "None"
+    },
+    {
+      "trait_type": "HP",
+      "value": 20
+    },
+    {
+      "trait_type": "AC",
+      "value": 12
+    },
+    {
+      "trait_type": "STR",
+      "value": 11
+    },
+    {
+      "trait_type": "DEX",
+      "value": 14
+    },
+    {
+      "trait_type": "CON",
+      "value": 17
+    },
+    {
+      "trait_type": "INT",
+      "value": 12
+    },
+    {
+      "trait_type": "WIS",
+      "value": 12
+    },
+    {
+      "trait_type": "CHA",
+      "value": 13
+    },
+    {
+      "trait_type": "Coins",
+      "value": 432
+    }
+  ]
+}

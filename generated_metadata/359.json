@@ -1,0 +1,94 @@
+{
+  "name": "Bulruk Diamond #359",
+  "description": "Bulruk Diamond is a High Elf Rogue, who has 5 sibling(s), and was born in a laboratory and rasied by a Single Mother. Bulruk Diamond lives in the upper Isle of Zenaria, where he lives out his days as a Folk Hero. Bulruk Diamond is a lone wolf and has been since he was a child. Bulruk Diamond never tried to make friends and often explored the island alone.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/359.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "High Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Rogue"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "161cm (5'3\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Folk Hero"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Flick"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Workers Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "White Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Trimmed Beard"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Curse"
+    },
+    {
+      "trait_type": "HP",
+      "value": 11
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 13
+    },
+    {
+      "trait_type": "DEX",
+      "value": 16
+    },
+    {
+      "trait_type": "CON",
+      "value": 6
+    },
+    {
+      "trait_type": "INT",
+      "value": 11
+    },
+    {
+      "trait_type": "WIS",
+      "value": 5
+    },
+    {
+      "trait_type": "CHA",
+      "value": 14
+    },
+    {
+      "trait_type": "Coins",
+      "value": 365
+    }
+  ]
+}

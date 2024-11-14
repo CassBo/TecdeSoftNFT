@@ -1,0 +1,94 @@
+{
+  "name": "Arnold Keene #867",
+  "description": "Arnold Keene is a Dark Elf Cleric, who has 4 sibling(s), and was born in a Tower and rasied by an Orphanage. Arnold Keene lives in the upper Isle of Zenaria, where he lives out his days as a Peasant. Arnold Keene always found it easy to make friends, and he loved being around people.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/867.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dark Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "168cm (5'6\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Tied Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Workers Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Blue Checked Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Trimmed Beard"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Curse"
+    },
+    {
+      "trait_type": "HP",
+      "value": 14
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 16
+    },
+    {
+      "trait_type": "DEX",
+      "value": 10
+    },
+    {
+      "trait_type": "CON",
+      "value": 11
+    },
+    {
+      "trait_type": "INT",
+      "value": 14
+    },
+    {
+      "trait_type": "WIS",
+      "value": 12
+    },
+    {
+      "trait_type": "CHA",
+      "value": 14
+    },
+    {
+      "trait_type": "Coins",
+      "value": 103
+    }
+  ]
+}

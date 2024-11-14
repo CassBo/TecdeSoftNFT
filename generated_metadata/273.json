@@ -1,0 +1,94 @@
+{
+  "name": "Nariel Moody #273",
+  "description": "Nariel Moody is a Dark Elf Ranger, who has 2 sibling(s), and was born in a Tavern and rasied by an Adoptive Family. Nariel Moody lives in the upper Isle of Zenaria, where she lives out her days as a Folk Hero. Nariel Moody was taught smithing at a young age as she often worked and helped out at her local smithery.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/273.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dark Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "170cm (5'7\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Folk Hero"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Flick"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Workers Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "White Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "None"
+    },
+    {
+      "trait_type": "HP",
+      "value": 11
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 6
+    },
+    {
+      "trait_type": "DEX",
+      "value": 11
+    },
+    {
+      "trait_type": "CON",
+      "value": 9
+    },
+    {
+      "trait_type": "INT",
+      "value": 14
+    },
+    {
+      "trait_type": "WIS",
+      "value": 10
+    },
+    {
+      "trait_type": "CHA",
+      "value": 7
+    },
+    {
+      "trait_type": "Coins",
+      "value": 84
+    }
+  ]
+}

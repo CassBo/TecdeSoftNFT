@@ -1,0 +1,94 @@
+{
+  "name": "Wilkass Scardino #68",
+  "description": "Wilkass Scardino is a Dark Elf Cleric, who has 8 sibling(s), and was born in an Alley and rasied by a Single Father. Wilkass Scardino lives in the upper Isle of Zenaria, where he lives out his days as a Folk Hero. Wilkass Scardino grew up with the ambition of being a powerful wizard, hoping he could become more powerful than the rest of his peers.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/68.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dark Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "165cm (5'5\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Folk Hero"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiked Bun"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Tan Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Padded Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Chin Stubble"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "HP",
+      "value": 14
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 11
+    },
+    {
+      "trait_type": "DEX",
+      "value": 12
+    },
+    {
+      "trait_type": "CON",
+      "value": 12
+    },
+    {
+      "trait_type": "INT",
+      "value": 11
+    },
+    {
+      "trait_type": "WIS",
+      "value": 13
+    },
+    {
+      "trait_type": "CHA",
+      "value": 7
+    },
+    {
+      "trait_type": "Coins",
+      "value": 857
+    }
+  ]
+}

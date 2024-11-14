@@ -1,0 +1,94 @@
+{
+  "name": "Balrus Spacek #425",
+  "description": "Balrus Spacek is a Orc Cleric, who has 7 sibling(s), and was born on a Battlefield and rasied by an instituition. Balrus Spacek lives in the lower Isle of Zarkus, where he lives out his days as Royalty. Balrus Spacek is a lone wolf and has been since he was a child. Balrus Spacek never tried to make friends and often explored the island alone.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/425.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Orc"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "156cm (5'1\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Royalty"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Ragged Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Workers Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Trimmed Beard"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "None"
+    },
+    {
+      "trait_type": "HP",
+      "value": 14
+    },
+    {
+      "trait_type": "AC",
+      "value": 11
+    },
+    {
+      "trait_type": "STR",
+      "value": 13
+    },
+    {
+      "trait_type": "DEX",
+      "value": 16
+    },
+    {
+      "trait_type": "CON",
+      "value": 8
+    },
+    {
+      "trait_type": "INT",
+      "value": 9
+    },
+    {
+      "trait_type": "WIS",
+      "value": 14
+    },
+    {
+      "trait_type": "CHA",
+      "value": 16
+    },
+    {
+      "trait_type": "Coins",
+      "value": 850
+    }
+  ]
+}

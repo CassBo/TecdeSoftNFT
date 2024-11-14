@@ -1,0 +1,94 @@
+{
+  "name": "Brina Dandridge #332",
+  "description": "Brina Dandridge is a Halfling Wizard, who has 2 sibling(s), and was born in a Temple and rasied by an Orphanage. Brina Dandridge lives in the upper Isle of Zenaria, where she lives out her days as a Peasant. Brina Dandridge was taught smithing at a young age as she often worked and helped out at her local smithery.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/332.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Halfling"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "114cm (3'9\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Troll Spike"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Workers Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "HP",
+      "value": 15
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 13
+    },
+    {
+      "trait_type": "DEX",
+      "value": 13
+    },
+    {
+      "trait_type": "CON",
+      "value": 13
+    },
+    {
+      "trait_type": "INT",
+      "value": 10
+    },
+    {
+      "trait_type": "WIS",
+      "value": 19
+    },
+    {
+      "trait_type": "CHA",
+      "value": 12
+    },
+    {
+      "trait_type": "Coins",
+      "value": 492
+    }
+  ]
+}

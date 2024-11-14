@@ -1,0 +1,94 @@
+{
+  "name": "Laimus Winters #863",
+  "description": "Laimus Winters is a High Elf Knight, who has 3 sibling(s), and was born in a Tower and rasied by a Mother and Father. Laimus Winters lives in the lower Isle of Zarkus, where he lives out his days as a Folk Hero. Laimus Winters had several friends, and his childhood was generally a happy one.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/863.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "High Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "152cm (4'12\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Folk Hero"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Angel Armor"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Steel Armor"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Long Goatee"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "HP",
+      "value": 14
+    },
+    {
+      "trait_type": "AC",
+      "value": 14
+    },
+    {
+      "trait_type": "STR",
+      "value": 9
+    },
+    {
+      "trait_type": "DEX",
+      "value": 15
+    },
+    {
+      "trait_type": "CON",
+      "value": 8
+    },
+    {
+      "trait_type": "INT",
+      "value": 13
+    },
+    {
+      "trait_type": "WIS",
+      "value": 14
+    },
+    {
+      "trait_type": "CHA",
+      "value": 7
+    },
+    {
+      "trait_type": "Coins",
+      "value": 675
+    }
+  ]
+}

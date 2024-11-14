@@ -1,0 +1,94 @@
+{
+  "name": "Zorion Beebe #596",
+  "description": "Zorion Beebe is a Halfling Cleric, who has 4 sibling(s), and was born in a Tower and rasied by a Mother and Father. Zorion Beebe lives in the lower Isle of Zarkus, where he lives out his days as Royalty. Zorion Beebe had a few close friends and lived an ordinary childhood.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/596.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Halfling"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "125cm (4'1\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Royalty"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Crystal Trimmed Armor"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Hunters Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Chin Stubble"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Blood"
+    },
+    {
+      "trait_type": "HP",
+      "value": 20
+    },
+    {
+      "trait_type": "AC",
+      "value": 16
+    },
+    {
+      "trait_type": "STR",
+      "value": 11
+    },
+    {
+      "trait_type": "DEX",
+      "value": 10
+    },
+    {
+      "trait_type": "CON",
+      "value": 14
+    },
+    {
+      "trait_type": "INT",
+      "value": 12
+    },
+    {
+      "trait_type": "WIS",
+      "value": 12
+    },
+    {
+      "trait_type": "CHA",
+      "value": 15
+    },
+    {
+      "trait_type": "Coins",
+      "value": 192
+    }
+  ]
+}

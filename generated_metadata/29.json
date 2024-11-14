@@ -1,0 +1,94 @@
+{
+  "name": "Vyn Boneflare #29",
+  "description": "Vyn Boneflare is a Dark Elf Barbarian, who has 10 sibling(s), and was born in a Temple and rasied by an instituition. Vyn Boneflare lives in the upper Isle of Zenaria, where he lives out his days as an Outlaw. Vyn Boneflare was taught smithing at a young age as he often worked and helped out at his local smithery.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/29.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dark Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Barbarian"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "153cm (5'0\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Outlaw"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Tied Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Green Cape"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Blue Shorts"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Long Goatee"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "None"
+    },
+    {
+      "trait_type": "HP",
+      "value": 16
+    },
+    {
+      "trait_type": "AC",
+      "value": 15
+    },
+    {
+      "trait_type": "STR",
+      "value": 16
+    },
+    {
+      "trait_type": "DEX",
+      "value": 15
+    },
+    {
+      "trait_type": "CON",
+      "value": 9
+    },
+    {
+      "trait_type": "INT",
+      "value": 14
+    },
+    {
+      "trait_type": "WIS",
+      "value": 10
+    },
+    {
+      "trait_type": "CHA",
+      "value": 13
+    },
+    {
+      "trait_type": "Coins",
+      "value": 723
+    }
+  ]
+}

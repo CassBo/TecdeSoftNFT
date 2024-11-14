@@ -1,0 +1,94 @@
+{
+  "name": "Syfyn Surrett #282",
+  "description": "Syfyn Surrett is a Orc Barbarian, who has 2 sibling(s), and was born in a guild and rasied by an Orphanage. Syfyn Surrett lives in the upper Isle of Zenethia, where she lives out her days as a Folk Hero. Syfyn Surrett travelled in a caravan for a few months in her early teenage years. During this period he learned to play mutliple musical intruments.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/282.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Orc"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Barbarian"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "164cm (5'5\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Folk Hero"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Tied Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Green Cape"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Blue Robe"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "HP",
+      "value": 25
+    },
+    {
+      "trait_type": "AC",
+      "value": 15
+    },
+    {
+      "trait_type": "STR",
+      "value": 11
+    },
+    {
+      "trait_type": "DEX",
+      "value": 12
+    },
+    {
+      "trait_type": "CON",
+      "value": 16
+    },
+    {
+      "trait_type": "INT",
+      "value": 9
+    },
+    {
+      "trait_type": "WIS",
+      "value": 15
+    },
+    {
+      "trait_type": "CHA",
+      "value": 13
+    },
+    {
+      "trait_type": "Coins",
+      "value": 251
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Elsie Morrissey #973",
+  "description": "Elsie Morrissey is a Wood Elf Cleric, who has 10 sibling(s), and was born in a laboratory and rasied by a Mother and Father. Elsie Morrissey lives in the lower Isle of Zarkus, where she lives out her days as an Outlaw. Elsie Morrissey would often fish as a child and became quite good at it. In fact she was crowned the champion in a fishing tournament at the age of 13.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/973.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Wood Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "155cm (5'1\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Outlaw"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Leather Armor"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Tan Striped Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "HP",
+      "value": 14
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 9
+    },
+    {
+      "trait_type": "DEX",
+      "value": 9
+    },
+    {
+      "trait_type": "CON",
+      "value": 10
+    },
+    {
+      "trait_type": "INT",
+      "value": 8
+    },
+    {
+      "trait_type": "WIS",
+      "value": 18
+    },
+    {
+      "trait_type": "CHA",
+      "value": 17
+    },
+    {
+      "trait_type": "Coins",
+      "value": 770
+    }
+  ]
+}

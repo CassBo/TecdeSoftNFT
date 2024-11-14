@@ -1,0 +1,94 @@
+{
+  "name": "Lunarex Stockton #800",
+  "description": "Lunarex Stockton is a Dark Elf Wizard, who has 1 sibling(s), and was born in a Keep and rasied by a Temple. Lunarex Stockton lives in the upper Isle of Zenethia, where she lives out her days as a Peasant. Lunarex Stockton had several friends, and her childhood was generally a happy one.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/800.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dark Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "170cm (5'7\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Flick"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Ragged Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Blue Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Curse"
+    },
+    {
+      "trait_type": "HP",
+      "value": 10
+    },
+    {
+      "trait_type": "AC",
+      "value": 11
+    },
+    {
+      "trait_type": "STR",
+      "value": 10
+    },
+    {
+      "trait_type": "DEX",
+      "value": 15
+    },
+    {
+      "trait_type": "CON",
+      "value": 9
+    },
+    {
+      "trait_type": "INT",
+      "value": 10
+    },
+    {
+      "trait_type": "WIS",
+      "value": 10
+    },
+    {
+      "trait_type": "CHA",
+      "value": 8
+    },
+    {
+      "trait_type": "Coins",
+      "value": 789
+    }
+  ]
+}

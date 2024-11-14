@@ -1,0 +1,94 @@
+{
+  "name": "Malfas Bennett #28",
+  "description": "Malfas Bennett is a Human Knight, who has 2 sibling(s), and was born in a Keep and rasied by a Temple. Malfas Bennett lives in the lower Isle of Zarkus, where he lives out his days as Royalty. Malfas Bennett grew up with the ambition of being a powerful wizard, hoping he could become more powerful than the rest of his peers.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/28.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "170cm (5'7\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Royalty"
+    },
+    {
+      "trait_type": "Body",
+      "value": "No Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Comb Over"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Workers Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Skirt"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Chin Stubble"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "HP",
+      "value": 14
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 11
+    },
+    {
+      "trait_type": "DEX",
+      "value": 15
+    },
+    {
+      "trait_type": "CON",
+      "value": 8
+    },
+    {
+      "trait_type": "INT",
+      "value": 10
+    },
+    {
+      "trait_type": "WIS",
+      "value": 13
+    },
+    {
+      "trait_type": "CHA",
+      "value": 18
+    },
+    {
+      "trait_type": "Coins",
+      "value": 222
+    }
+  ]
+}

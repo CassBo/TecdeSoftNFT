@@ -1,0 +1,94 @@
+{
+  "name": "Laimus Kendrick #718",
+  "description": "Laimus Kendrick is a Wood Elf Rogue, who has 8 sibling(s), and was born in the Home of a Family Friend and rasied by their Grandparents. Laimus Kendrick lives in the upper Isle of Zenethia, where he lives out his days as a Peasant. Laimus Kendrick was taught smithing at a young age as he often worked and helped out at his local smithery.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/718.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Wood Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Rogue"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "171cm (5'7\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Straight"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Bronze Armor"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Chin Stubble"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Curse"
+    },
+    {
+      "trait_type": "HP",
+      "value": 13
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 11
+    },
+    {
+      "trait_type": "DEX",
+      "value": 11
+    },
+    {
+      "trait_type": "CON",
+      "value": 8
+    },
+    {
+      "trait_type": "INT",
+      "value": 14
+    },
+    {
+      "trait_type": "WIS",
+      "value": 17
+    },
+    {
+      "trait_type": "CHA",
+      "value": 14
+    },
+    {
+      "trait_type": "Coins",
+      "value": 757
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Pindious Mintz #70",
+  "description": "Pindious Mintz is a Wood Elf Knight, who has 1 sibling(s), and was born in a Keep and rasied by a Single Mother. Pindious Mintz lives in the lower Isle of Zarkus, where he lives out his days as a Peasant. Pindious Mintz had several friends, and his childhood was generally a happy one.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/70.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Wood Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "181cm (5'11\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Flick"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Ragged Drape"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Long Goatee"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "None"
+    },
+    {
+      "trait_type": "HP",
+      "value": 16
+    },
+    {
+      "trait_type": "AC",
+      "value": 11
+    },
+    {
+      "trait_type": "STR",
+      "value": 13
+    },
+    {
+      "trait_type": "DEX",
+      "value": 14
+    },
+    {
+      "trait_type": "CON",
+      "value": 9
+    },
+    {
+      "trait_type": "INT",
+      "value": 13
+    },
+    {
+      "trait_type": "WIS",
+      "value": 10
+    },
+    {
+      "trait_type": "CHA",
+      "value": 7
+    },
+    {
+      "trait_type": "Coins",
+      "value": 752
+    }
+  ]
+}

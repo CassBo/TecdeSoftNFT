@@ -1,0 +1,94 @@
+{
+  "name": "Ace Keene #138",
+  "description": "Ace Keene is a Halfling Barbarian, who has 3 sibling(s), and was born in a Palace and rasied by a Single Mother. Ace Keene lives in the upper Isle of Zenethia, where he lives out his days as a Peasant. Ace Keene travelled in a caravan for a few months in his early teenage years. During this period he learned to play mutliple musical intruments.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/138.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Halfling"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Barbarian"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "124cm (4'1\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Workers Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Grey Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Long Goatee"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "None"
+    },
+    {
+      "trait_type": "HP",
+      "value": 13
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 15
+    },
+    {
+      "trait_type": "DEX",
+      "value": 13
+    },
+    {
+      "trait_type": "CON",
+      "value": 8
+    },
+    {
+      "trait_type": "INT",
+      "value": 13
+    },
+    {
+      "trait_type": "WIS",
+      "value": 16
+    },
+    {
+      "trait_type": "CHA",
+      "value": 10
+    },
+    {
+      "trait_type": "Coins",
+      "value": 632
+    }
+  ]
+}

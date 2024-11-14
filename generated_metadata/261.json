@@ -1,0 +1,94 @@
+{
+  "name": "Vixen Ashbluff #261",
+  "description": "Vixen Ashbluff is a Halfling Ranger, who has no sibling(s), and was born on a Battlefield and rasied by an Adoptive Family. Vixen Ashbluff lives in the upper Isle of Zenaria, where she lives out her days as a Folk Hero. Growing up she often went hunting and foraging and was taught essential survival skills.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/261.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Halfling"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "127cm (4'2\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Folk Hero"
+    },
+    {
+      "trait_type": "Body",
+      "value": "No Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Top Knot"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Steel Armor"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Blue Lined Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "HP",
+      "value": 19
+    },
+    {
+      "trait_type": "AC",
+      "value": 14
+    },
+    {
+      "trait_type": "STR",
+      "value": 15
+    },
+    {
+      "trait_type": "DEX",
+      "value": 12
+    },
+    {
+      "trait_type": "CON",
+      "value": 11
+    },
+    {
+      "trait_type": "INT",
+      "value": 12
+    },
+    {
+      "trait_type": "WIS",
+      "value": 14
+    },
+    {
+      "trait_type": "CHA",
+      "value": 15
+    },
+    {
+      "trait_type": "Coins",
+      "value": 427
+    }
+  ]
+}

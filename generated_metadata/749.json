@@ -1,0 +1,94 @@
+{
+  "name": "Bob Powers #749",
+  "description": "Bob Powers is a Dark Elf Barbarian, who has 5 sibling(s), and was born in a Cave and rasied by an Adoptive Family. Bob Powers lives in the upper Isle of Zenaria, where he lives out his days as a Commoner. Bob Powers spent most of his teenage years flirting and wooing many people. Locals would pay him to teach them how to do the same.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/749.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dark Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Barbarian"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "172cm (5'8\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Commoner"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Straight"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Ragged Drape"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Red Lined Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Long Goatee"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Blood"
+    },
+    {
+      "trait_type": "HP",
+      "value": 13
+    },
+    {
+      "trait_type": "AC",
+      "value": 11
+    },
+    {
+      "trait_type": "STR",
+      "value": 8
+    },
+    {
+      "trait_type": "DEX",
+      "value": 13
+    },
+    {
+      "trait_type": "CON",
+      "value": 10
+    },
+    {
+      "trait_type": "INT",
+      "value": 12
+    },
+    {
+      "trait_type": "WIS",
+      "value": 15
+    },
+    {
+      "trait_type": "CHA",
+      "value": 15
+    },
+    {
+      "trait_type": "Coins",
+      "value": 439
+    }
+  ]
+}

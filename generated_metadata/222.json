@@ -1,0 +1,94 @@
+{
+  "name": "Balrus Quellings #222",
+  "description": "Balrus Quellings is a Human Barbarian, who has no sibling(s), and was born in a Palace and rasied by a Gaurdian. Balrus Quellings lives in the lower Isle of Zarkus, where he lives out his days as a Peasant. Growing up he often went hunting and foraging and was taught essential survival skills.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/222.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Barbarian"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "163cm (5'4\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Flick"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Leather Armor"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Pink Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Trimmed Beard"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Blood"
+    },
+    {
+      "trait_type": "HP",
+      "value": 9
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 12
+    },
+    {
+      "trait_type": "DEX",
+      "value": 18
+    },
+    {
+      "trait_type": "CON",
+      "value": 8
+    },
+    {
+      "trait_type": "INT",
+      "value": 15
+    },
+    {
+      "trait_type": "WIS",
+      "value": 10
+    },
+    {
+      "trait_type": "CHA",
+      "value": 10
+    },
+    {
+      "trait_type": "Coins",
+      "value": 603
+    }
+  ]
+}

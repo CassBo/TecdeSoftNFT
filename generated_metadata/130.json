@@ -1,0 +1,94 @@
+{
+  "name": "Amara Swiatek #130",
+  "description": "Amara Swiatek is a Human Knight, who has 3 sibling(s), and was born in a Tavern and rasied by an instituition. Amara Swiatek lives in the upper Isle of Zenaria, where she lives out her days as Royalty. Amara Swiatek always found it easy to make friends, and she loved being around people.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/130.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "173cm (5'8\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Royalty"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Comb Over"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Ragged Drape"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Padded Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "HP",
+      "value": 20
+    },
+    {
+      "trait_type": "AC",
+      "value": 11
+    },
+    {
+      "trait_type": "STR",
+      "value": 6
+    },
+    {
+      "trait_type": "DEX",
+      "value": 12
+    },
+    {
+      "trait_type": "CON",
+      "value": 12
+    },
+    {
+      "trait_type": "INT",
+      "value": 17
+    },
+    {
+      "trait_type": "WIS",
+      "value": 11
+    },
+    {
+      "trait_type": "CHA",
+      "value": 10
+    },
+    {
+      "trait_type": "Coins",
+      "value": 610
+    }
+  ]
+}

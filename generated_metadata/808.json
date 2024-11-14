@@ -1,0 +1,94 @@
+{
+  "name": "Remus Yarrow #808",
+  "description": "Remus Yarrow is a Human Knight, who has 4 sibling(s), and was born in a Cave and rasied by a Gaurdian. Remus Yarrow lives in the upper Isle of Zenaria, where he lives out his days as Royalty. Growing up he often went hunting and foraging and was taught essential survival skills.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/808.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "163cm (5'4\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Royalty"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "White Cape"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Padded Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Long Goatee"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Blood"
+    },
+    {
+      "trait_type": "HP",
+      "value": 14
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 13
+    },
+    {
+      "trait_type": "DEX",
+      "value": 12
+    },
+    {
+      "trait_type": "CON",
+      "value": 13
+    },
+    {
+      "trait_type": "INT",
+      "value": 16
+    },
+    {
+      "trait_type": "WIS",
+      "value": 15
+    },
+    {
+      "trait_type": "CHA",
+      "value": 12
+    },
+    {
+      "trait_type": "Coins",
+      "value": 205
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Wade Monsterbelly #741",
+  "description": "Wade Monsterbelly is a High Elf Wizard, who has 10 sibling(s), and was born in the Home of a Family Friend and rasied by a Gaurdian. Wade Monsterbelly lives in the lower Isle of Zarkus, where he lives out his days as a Peasant. Wade Monsterbelly was taught smithing at a young age as he often worked and helped out at his local smithery.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/741.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "High Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "163cm (5'4\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Tied Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Red Cape"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Tan Shorts"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "HP",
+      "value": 12
+    },
+    {
+      "trait_type": "AC",
+      "value": 15
+    },
+    {
+      "trait_type": "STR",
+      "value": 12
+    },
+    {
+      "trait_type": "DEX",
+      "value": 17
+    },
+    {
+      "trait_type": "CON",
+      "value": 10
+    },
+    {
+      "trait_type": "INT",
+      "value": 15
+    },
+    {
+      "trait_type": "WIS",
+      "value": 11
+    },
+    {
+      "trait_type": "CHA",
+      "value": 11
+    },
+    {
+      "trait_type": "Coins",
+      "value": 200
+    }
+  ]
+}

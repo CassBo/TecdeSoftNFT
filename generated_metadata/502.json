@@ -1,0 +1,94 @@
+{
+  "name": "Shikta Yarborough #502",
+  "description": "Shikta Yarborough is a Wood Elf Wizard, who has 7 sibling(s), and was born on a Ship and rasied by their Grandparents. Shikta Yarborough lives in the upper Isle of Zenaria, where she lives out her days as a Folk Hero. Shikta Yarborough had several friends, and her childhood was generally a happy one.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/502.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Wood Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "174cm (5'9\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Folk Hero"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Flick"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Ragged Drape"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Green Shorts"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "HP",
+      "value": 15
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 11
+    },
+    {
+      "trait_type": "DEX",
+      "value": 10
+    },
+    {
+      "trait_type": "CON",
+      "value": 11
+    },
+    {
+      "trait_type": "INT",
+      "value": 14
+    },
+    {
+      "trait_type": "WIS",
+      "value": 16
+    },
+    {
+      "trait_type": "CHA",
+      "value": 7
+    },
+    {
+      "trait_type": "Coins",
+      "value": 719
+    }
+  ]
+}

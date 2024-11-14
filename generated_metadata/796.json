@@ -1,0 +1,94 @@
+{
+  "name": "Delvin Surrett #796",
+  "description": "Delvin Surrett is a Halfling Ranger, who has no sibling(s), and was born in a Barn and rasied by an instituition. Delvin Surrett lives in the lower Isle of Zarkus, where he lives out his days as a Peasant. Others saw him as being different or strange, and so he had few companions.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/796.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Halfling"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "127cm (4'2\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Troll Spike"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Tan Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Padded Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Trimmed Beard"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Curse"
+    },
+    {
+      "trait_type": "HP",
+      "value": 10
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 12
+    },
+    {
+      "trait_type": "DEX",
+      "value": 17
+    },
+    {
+      "trait_type": "CON",
+      "value": 9
+    },
+    {
+      "trait_type": "INT",
+      "value": 15
+    },
+    {
+      "trait_type": "WIS",
+      "value": 10
+    },
+    {
+      "trait_type": "CHA",
+      "value": 9
+    },
+    {
+      "trait_type": "Coins",
+      "value": 884
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Laimus Woodard #63",
+  "description": "Laimus Woodard is a Wood Elf Barbarian, who has 2 sibling(s), and was born Among people of a different race and rasied by a Single Mother. Laimus Woodard lives in the upper Isle of Zenaria, where he lives out his days as an Outlaw. Laimus Woodard had several friends, and his childhood was generally a happy one.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/63.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Wood Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Barbarian"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "155cm (5'1\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Outlaw"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Comb Over"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Leather Armor"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Padded Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Long Goatee"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Curse"
+    },
+    {
+      "trait_type": "HP",
+      "value": 24
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 9
+    },
+    {
+      "trait_type": "DEX",
+      "value": 10
+    },
+    {
+      "trait_type": "CON",
+      "value": 15
+    },
+    {
+      "trait_type": "INT",
+      "value": 14
+    },
+    {
+      "trait_type": "WIS",
+      "value": 9
+    },
+    {
+      "trait_type": "CHA",
+      "value": 16
+    },
+    {
+      "trait_type": "Coins",
+      "value": 567
+    }
+  ]
+}

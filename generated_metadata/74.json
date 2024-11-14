@@ -1,0 +1,94 @@
+{
+  "name": "Soril Whalen #74",
+  "description": "Soril Whalen is a Dark Elf Wizard, who has no sibling(s), and was born in the Home of a healer and rasied by an Adoptive Family. Soril Whalen lives in the upper Isle of Zenaria, where he lives out his days as a Peasant. Soril Whalen is still haunted by his childhood, when he was treated badly by his peers.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/74.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dark Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "168cm (5'6\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Top Knot"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Ragged Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Green Robe"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Trimmed Beard"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "None"
+    },
+    {
+      "trait_type": "HP",
+      "value": 15
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 13
+    },
+    {
+      "trait_type": "DEX",
+      "value": 15
+    },
+    {
+      "trait_type": "CON",
+      "value": 13
+    },
+    {
+      "trait_type": "INT",
+      "value": 17
+    },
+    {
+      "trait_type": "WIS",
+      "value": 11
+    },
+    {
+      "trait_type": "CHA",
+      "value": 11
+    },
+    {
+      "trait_type": "Coins",
+      "value": 142
+    }
+  ]
+}

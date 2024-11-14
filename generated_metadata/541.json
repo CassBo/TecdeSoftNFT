@@ -1,0 +1,94 @@
+{
+  "name": "Draco Mantooth #541",
+  "description": "Draco Mantooth is a Dwarf Ranger, who has no sibling(s), and was born Among people of a different race and rasied by an instituition. Draco Mantooth lives in the upper Isle of Zenethia, where he lives out his days as a Noble. Draco Mantooth holds the record for most lobsters caught in 24 hours using a single net. The record being 200 lobsters caught in 24 hours.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/541.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dwarf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "111cm (3'8\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Noble"
+    },
+    {
+      "trait_type": "Body",
+      "value": "No Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiked Bun"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Crystal Trimmed Armor"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Tan Striped Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Long Goatee"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "HP",
+      "value": 17
+    },
+    {
+      "trait_type": "AC",
+      "value": 14
+    },
+    {
+      "trait_type": "STR",
+      "value": 11
+    },
+    {
+      "trait_type": "DEX",
+      "value": 12
+    },
+    {
+      "trait_type": "CON",
+      "value": 10
+    },
+    {
+      "trait_type": "INT",
+      "value": 17
+    },
+    {
+      "trait_type": "WIS",
+      "value": 13
+    },
+    {
+      "trait_type": "CHA",
+      "value": 9
+    },
+    {
+      "trait_type": "Coins",
+      "value": 805
+    }
+  ]
+}

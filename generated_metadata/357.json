@@ -1,0 +1,94 @@
+{
+  "name": "Wilkass Youngblood #357",
+  "description": "Wilkass Youngblood is a Dark Elf Cleric, who has 2 sibling(s), and was born in a laboratory and rasied by a Single Mother. Wilkass Youngblood lives in the upper Isle of Zenaria, where he lives out his days as a Noble. Wilkass Youngblood is a lone wolf and has been since he was a child. Wilkass Youngblood never tried to make friends and often explored the island alone.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/357.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dark Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "165cm (5'5\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Noble"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Top Knot"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Mage Tunic"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Checked Green Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Long Goatee"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "None"
+    },
+    {
+      "trait_type": "HP",
+      "value": 11
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 9
+    },
+    {
+      "trait_type": "DEX",
+      "value": 13
+    },
+    {
+      "trait_type": "CON",
+      "value": 9
+    },
+    {
+      "trait_type": "INT",
+      "value": 8
+    },
+    {
+      "trait_type": "WIS",
+      "value": 10
+    },
+    {
+      "trait_type": "CHA",
+      "value": 11
+    },
+    {
+      "trait_type": "Coins",
+      "value": 781
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Zerk Draper #427",
+  "description": "Zerk Draper is a Wood Elf Ranger, who has 7 sibling(s), and was born in their family Home and rasied by an Orphanage. Zerk Draper lives in the lower Isle of Zarkus, where he lives out his days as a Peasant. Zerk Draper spent most of his teenage years flirting and wooing many people. Locals would pay him to teach them how to do the same.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/427.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Wood Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "173cm (5'8\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Red Cape"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Tan Studded Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Chin Stubble"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "None"
+    },
+    {
+      "trait_type": "HP",
+      "value": 12
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 12
+    },
+    {
+      "trait_type": "DEX",
+      "value": 18
+    },
+    {
+      "trait_type": "CON",
+      "value": 10
+    },
+    {
+      "trait_type": "INT",
+      "value": 11
+    },
+    {
+      "trait_type": "WIS",
+      "value": 15
+    },
+    {
+      "trait_type": "CHA",
+      "value": 13
+    },
+    {
+      "trait_type": "Coins",
+      "value": 829
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Dray Sacredmore #616",
+  "description": "Dray Sacredmore is a Dwarf Wizard, who has 3 sibling(s), and was born in their family Home and rasied by their Grandparents. Dray Sacredmore lives in the upper Isle of Zenaria, where he lives out his days as a Folk Hero. Dray Sacredmore holds the record for most lobsters caught in 24 hours using a single net. The record being 200 lobsters caught in 24 hours.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/616.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dwarf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "121cm (3'12\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Folk Hero"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dreadlocks"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Workers Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Pink Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Trimmed Beard"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "None"
+    },
+    {
+      "trait_type": "HP",
+      "value": 17
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 19
+    },
+    {
+      "trait_type": "DEX",
+      "value": 13
+    },
+    {
+      "trait_type": "CON",
+      "value": 14
+    },
+    {
+      "trait_type": "INT",
+      "value": 8
+    },
+    {
+      "trait_type": "WIS",
+      "value": 14
+    },
+    {
+      "trait_type": "CHA",
+      "value": 19
+    },
+    {
+      "trait_type": "Coins",
+      "value": 629
+    }
+  ]
+}

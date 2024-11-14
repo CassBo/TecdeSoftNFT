@@ -1,0 +1,94 @@
+{
+  "name": "Viktas Arrington #131",
+  "description": "Viktas Arrington is a High Elf Wizard, who has 5 sibling(s), and was born in a Castle and rasied by a Single Mother. Viktas Arrington lives in the upper Isle of Zenethia, where he lives out his days as a Noble. Viktas Arrington spent most of his teenage years flirting and wooing many people. Locals would pay him to teach them how to do the same.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/131.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "High Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "155cm (5'1\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Noble"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiked Bun"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Mage Tunic"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Green Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Trimmed Beard"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Curse"
+    },
+    {
+      "trait_type": "HP",
+      "value": 19
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 11
+    },
+    {
+      "trait_type": "DEX",
+      "value": 12
+    },
+    {
+      "trait_type": "CON",
+      "value": 17
+    },
+    {
+      "trait_type": "INT",
+      "value": 14
+    },
+    {
+      "trait_type": "WIS",
+      "value": 11
+    },
+    {
+      "trait_type": "CHA",
+      "value": 12
+    },
+    {
+      "trait_type": "Coins",
+      "value": 382
+    }
+  ]
+}

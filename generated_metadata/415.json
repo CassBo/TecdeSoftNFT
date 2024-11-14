@@ -1,0 +1,94 @@
+{
+  "name": "Laimus Banu #415",
+  "description": "Laimus Banu is a Human Cleric, who has no sibling(s), and was born in a Forest and rasied by an Adoptive Family. Laimus Banu lives in the upper Isle of Zenethia, where he lives out his days as a Noble. Laimus Banu would often fish as a child and became quite good at it. In fact he was crowned the champion in a fishing tournament at the age of 13.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/415.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Cleric"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "174cm (5'9\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Noble"
+    },
+    {
+      "trait_type": "Body",
+      "value": "No Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Ponytail"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Iron Armor"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Long Goatee"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "HP",
+      "value": 21
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 10
+    },
+    {
+      "trait_type": "DEX",
+      "value": 12
+    },
+    {
+      "trait_type": "CON",
+      "value": 17
+    },
+    {
+      "trait_type": "INT",
+      "value": 13
+    },
+    {
+      "trait_type": "WIS",
+      "value": 14
+    },
+    {
+      "trait_type": "CHA",
+      "value": 9
+    },
+    {
+      "trait_type": "Coins",
+      "value": 142
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Akibrus Dwyer #992",
+  "description": "Akibrus Dwyer is a High Elf Wizard, who has 7 sibling(s), and was born in a Carriage and rasied by an Adoptive Family. Akibrus Dwyer lives in the lower Isle of Zarkus, where he lives out his days as a Peasant. Akibrus Dwyer holds the record for most lobsters caught in 24 hours using a single net. The record being 200 lobsters caught in 24 hours.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/992.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "High Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "173cm (5'8\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long Ponytail"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Ragged Shirt"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Blue Shorts"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Chin Stubble"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Curse"
+    },
+    {
+      "trait_type": "HP",
+      "value": 24
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 12
+    },
+    {
+      "trait_type": "DEX",
+      "value": 16
+    },
+    {
+      "trait_type": "CON",
+      "value": 18
+    },
+    {
+      "trait_type": "INT",
+      "value": 17
+    },
+    {
+      "trait_type": "WIS",
+      "value": 7
+    },
+    {
+      "trait_type": "CHA",
+      "value": 16
+    },
+    {
+      "trait_type": "Coins",
+      "value": 692
+    }
+  ]
+}

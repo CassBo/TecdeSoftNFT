@@ -1,0 +1,94 @@
+{
+  "name": "Wade Decker #563",
+  "description": "Wade Decker is a Halfling Knight, who has 7 sibling(s), and was born in a Temple and rasied by an instituition. Wade Decker lives in the upper Isle of Zenaria, where he lives out his days as a Peasant. Wade Decker had a few close friends and lived an ordinary childhood.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/563.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Halfling"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Knight"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "123cm (4'0\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peasant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Small Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wizard Hat"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Crystal Trimmed Armor"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Yellow Lined Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Trimmed Beard"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "HP",
+      "value": 20
+    },
+    {
+      "trait_type": "AC",
+      "value": 14
+    },
+    {
+      "trait_type": "STR",
+      "value": 20
+    },
+    {
+      "trait_type": "DEX",
+      "value": 14
+    },
+    {
+      "trait_type": "CON",
+      "value": 15
+    },
+    {
+      "trait_type": "INT",
+      "value": 11
+    },
+    {
+      "trait_type": "WIS",
+      "value": 12
+    },
+    {
+      "trait_type": "CHA",
+      "value": 15
+    },
+    {
+      "trait_type": "Coins",
+      "value": 324
+    }
+  ]
+}

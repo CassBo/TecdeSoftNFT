@@ -1,0 +1,94 @@
+{
+  "name": "Zakkas Humblecut #858",
+  "description": "Zakkas Humblecut is a Dark Elf Barbarian, who has no sibling(s), and was born in a Tower and rasied by an Orphanage. Zakkas Humblecut lives in the upper Isle of Zenaria, where he lives out his days as a Commoner. Zakkas Humblecut travelled in a caravan for a few months in his early teenage years. During this period he learned to play mutliple musical intruments.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/858.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dark Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Barbarian"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Height",
+      "value": "153cm (5'0\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Commoner"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Mage Robes"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Red Studded Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "Chin Stubble"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "HP",
+      "value": 23
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 12
+    },
+    {
+      "trait_type": "DEX",
+      "value": 17
+    },
+    {
+      "trait_type": "CON",
+      "value": 14
+    },
+    {
+      "trait_type": "INT",
+      "value": 8
+    },
+    {
+      "trait_type": "WIS",
+      "value": 19
+    },
+    {
+      "trait_type": "CHA",
+      "value": 10
+    },
+    {
+      "trait_type": "Coins",
+      "value": 156
+    }
+  ]
+}

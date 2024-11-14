@@ -1,0 +1,94 @@
+{
+  "name": "Freya Presto #387",
+  "description": "Freya Presto is a Dark Elf Ranger, who has 2 sibling(s), and was born in a Prison and rasied by a Temple. Freya Presto lives in the upper Isle of Zenethia, where she lives out her days as a Commoner. Everyone knew who she was, and she had friends everywhere she went.",
+  "image": "https://CassBo.github.io/TecdeSoftNFT/generated_images/387.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Dark Elf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Height",
+      "value": "175cm (5'9\")"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Commoner"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Large Pointed Ear"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Short Tied Hair"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Yellow/Red Cape"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Pink Pants"
+    },
+    {
+      "trait_type": "Facial Hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "Weapon"
+    },
+    {
+      "trait_type": "Weapon Element",
+      "value": "None"
+    },
+    {
+      "trait_type": "HP",
+      "value": 20
+    },
+    {
+      "trait_type": "AC",
+      "value": 13
+    },
+    {
+      "trait_type": "STR",
+      "value": 14
+    },
+    {
+      "trait_type": "DEX",
+      "value": 10
+    },
+    {
+      "trait_type": "CON",
+      "value": 15
+    },
+    {
+      "trait_type": "INT",
+      "value": 11
+    },
+    {
+      "trait_type": "WIS",
+      "value": 12
+    },
+    {
+      "trait_type": "CHA",
+      "value": 17
+    },
+    {
+      "trait_type": "Coins",
+      "value": 881
+    }
+  ]
+}
